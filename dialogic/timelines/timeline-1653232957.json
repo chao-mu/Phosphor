@@ -1,0 +1,57 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The office worker glances around nervously making sure no one is looking, seeming to look right through you. They pull up what appears to be a chat conversation."
+		},
+		{
+			"character": "character-1653233151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Guess who went missing!"
+		},
+		{
+			"character": "character-1653233107.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My will to live?"
+		},
+		{
+			"character": "character-1653233151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nope, that's old news. Penelope."
+		},
+		{
+			"character": "character-1653233107.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wait, really?"
+		},
+		{
+			"character": "character-1653233151.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. I'll tell you more later. I have to get back to work. I hear there are going to be layoffs and I really can't afford to lose this job."
+		},
+		{
+			"character": "character-1653233107.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When are there not layoffs?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The office worker returns to their task of deleting and retyping the same word, but every time you try to read it, your eyes unfocus."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1653232957.json",
+		"name": "timeline-chat-about-missing-person"
+	}
+}

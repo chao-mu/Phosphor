@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A large motivational poster displays an impossibly happy child surrounded by the words \"We do it for them\" in big corporate letters."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1653234965.json",
+		"name": "timeline-motivation-poster-child"
+	}
+}

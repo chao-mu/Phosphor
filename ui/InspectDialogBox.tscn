@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="InspectDialogBox" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+margin_left = 546.0
+margin_top = 222.0
+margin_right = 733.0
+margin_bottom = 499.0

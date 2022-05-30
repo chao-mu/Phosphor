@@ -1,0 +1,19 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You lean towards the elevator's control terminal..."
+		},
+		{
+			"emit_signal": "level_2",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1652984361.json",
+		"name": "timeline-level2-launcher"
+	}
+}

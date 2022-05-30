@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://player/Player.tscn" type="PackedScene" id=1]
+[ext_resource path="res://interactives/InteractionZone.tscn" type="PackedScene" id=2]
+[ext_resource path="res://levels/LevelBacking.tscn" type="PackedScene" id=4]
+
+[node name="Level2" type="Node2D"]
+scale = Vector2( 0.882393, 0.991667 )
+
+[node name="LevelBacking" parent="." instance=ExtResource( 4 )]
+
+[node name="Player" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1251, 304 )
+
+[node name="Interactions" type="Node2D" parent="."]
+
+[node name="ControlPannel" parent="Interactions" instance=ExtResource( 2 )]
+position = Vector2( 1462, 184 )
+timeline_path = "timeline-level2-launcher"

@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You wake, feeling a tightly knitted carpet against your cheek. You open your eyes, the world sharpens and you realize you're laying on the floor of a dimly lit office."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Employees at desks, oblivious to your presence, surround you. Their tired faces are illuminated by the phosphorescence of CRTs."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A panic strikes you. You do not know where you are. You do not know who you are."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1653235246.json",
+		"name": "timeline-waking-up"
+	}
+}

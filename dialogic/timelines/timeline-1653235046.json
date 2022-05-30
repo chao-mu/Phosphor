@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You look at the hands of the wall clock and then glance at your wrist watch. The clock is 15 minutes slow."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1653235046.json",
+		"name": "timeline-wall-clock"
+	}
+}

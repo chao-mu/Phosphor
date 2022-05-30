@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The leaves of the potted plant are  edged with brown and seem frail, as if no one has watered it for weeks. Upon closer inspection however, you note that it is plastic."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1653235097.json",
+		"name": "timeline-plant"
+	}
+}
