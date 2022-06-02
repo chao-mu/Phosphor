@@ -84,6 +84,11 @@ config/name="Phosphor"
 run/main_scene="res://levels/Level1.tscn"
 config/icon="res://icon.png"
 
+[audio]
+
+mix_rate=48000
+mix_rate.web=48000
+
 [autoload]
 
 Settings="*res://global/Settings.gd"
