@@ -31,9 +31,9 @@ position = Vector2( 1001, 640 )
 scale = Vector2( 1.26367, 1.43624 )
 timeline_path = "timeline-chat-about-missing-person"
 
-[node name="LevelAudio" type="Node2D" parent="."]
+[node name="Audio" type="Node2D" parent="."]
 
-[node name="Ambience" type="AudioStreamPlayer" parent="LevelAudio"]
+[node name="Ambience" type="AudioStreamPlayer" parent="Audio"]
 pause_mode = 2
 stream = ExtResource( 5 )
 volume_db = -16.239
