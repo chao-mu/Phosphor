@@ -94,6 +94,7 @@ mix_rate.web=48000
 Settings="*res://global/Settings.gd"
 Controls="*res://global/Controls.gd"
 Helpers="*res://global/Helpers.gd"
+Audio="*res://audio/Audio.tscn"
 
 [display]
 
