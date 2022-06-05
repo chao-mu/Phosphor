@@ -87,14 +87,13 @@ config/icon="res://icon.png"
 [audio]
 
 mix_rate=48000
-mix_rate.web=48000
 
 [autoload]
 
 Settings="*res://global/Settings.gd"
 Controls="*res://global/Controls.gd"
 Helpers="*res://global/Helpers.gd"
-Audio="*res://audio/Audio.tscn"
+Audio="*res://global/Audio.tscn"
 
 [display]
 
